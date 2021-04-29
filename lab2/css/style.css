@@ -1,0 +1,39 @@
+form {
+    width: 500px;
+}
+
+textarea {
+    width: 100%;
+    height: 30px;
+    outline: none;
+    border: none;
+}
+
+.message {
+    color: red;
+    font-size: 20px;
+}
+
+.postcard {
+    width: 100%;
+}
+
+.postName {
+    font-size: 30px;
+    height: 50px;
+}
+
+.fileReference {
+    text-decoration: none;
+    color: royalblue;
+}
+
+.postInfo {
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 500px;
+}
+
+.downloadFile {
+    display: inline-block;
+}
